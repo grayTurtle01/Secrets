@@ -1,5 +1,5 @@
 # Secrets
-Tell us your Secrets
+Tell us your Secrets ㊙️
 
 * Features: Create Secret, Delete Secret, Update Secret, Completed Secret
 * Accounts: Private Secrets, Public Secrets
